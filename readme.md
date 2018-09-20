@@ -1,6 +1,6 @@
 ## two hash heading
 ### three hashtag heading
-# one hashtag heading following guide stolen from unexpected vortices. 
+# one hashtag heading following guide stolen from unexpected vortices.
 
 An h1 header
 ============
@@ -27,6 +27,7 @@ Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
 Unicode is supported. ☺
 
+...
 
 
 An h2 header
@@ -255,7 +256,7 @@ Here’s a “line block” (note how whitespace is honored):
 
 Line one
   Line too
-Line tree
+Line three
 and images can be specified like so:
 
 example image
